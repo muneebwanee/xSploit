@@ -47,7 +47,7 @@ rm ./modules/auxiliary/gather/http_pdf_authors.rb
 ln -s $HOME/metasploit-framework/msfconsole /data/data/com.termux/files/usr/bin/
 echo "###############################"
 echo "##############################################"
-figlet -f small muneebwanee
+figlet -f small xSploit
 echo "###############################"
 echo "###############################################"
 
